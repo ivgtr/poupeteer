@@ -1,0 +1,22 @@
+{
+  "name": "puepru-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node --files ./src/index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/twitter": "^1.7.0",
+    "eslint": "^7.20.0",
+    "eslint-config-sumikko": "^0.3.0",
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "twitter": "^1.7.1",
+    "twitter-d": "^0.4.0"
+  }
+}
