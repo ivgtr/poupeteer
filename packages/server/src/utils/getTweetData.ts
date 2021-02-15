@@ -19,8 +19,8 @@ type Params = {
 }
 
 const params: Params = {
-  q: '#えんとつ町のプぺル -filter:retweet',
-  count: '100',
+  q: '#えんとつ町のプぺル exclude:retweets',
+  count: '10',
   result_type: 'recent',
   trim_user: true,
   include_entities: false
@@ -58,8 +58,9 @@ export const getAllTweetData = async (tweetData: Tweet[]): Promise<Tweet[]> => {
   const _params: Params & Params_ex = {
     ...params
   }
-  if (tweetData.length) _params.since_id = tweetData.slice(-1)[0].id_str
-  const result = await getTweetData(_params)
+  if (tweetData.length) _params.max_id = tweetData.slice(-1)[0].id_str
+
+  const result = await getTweetData(_params).catch<[]>(() => [])
 
   if (result.length) {
     return getAllTweetData(tweetData.length ? tweetData.concat(result) : result)
