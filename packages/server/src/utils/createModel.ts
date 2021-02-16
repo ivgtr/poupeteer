@@ -14,6 +14,7 @@ export const createModel = async (result: Tweet[]) => {
       .replace(/[#＃][Ａ-Ｚａ-ｚA-Za-z一-鿆0-9０-９ぁ-ヶｦ-ﾟー._-]+/g, '')
       .replace(/https?:\/\/[-_.!~*'()a-zA-Z0-9;/?:@&=+$,%#]+/g, '')
       .replace(/\r?\n/g, '')
+      .trim()
       .split('。')
       .join('')
     if (text.length < 10) return acc
