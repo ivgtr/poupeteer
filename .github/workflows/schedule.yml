@@ -1,0 +1,37 @@
+name: workflow Get new Tweet and Create DB
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+jobs:
+  working-buckend:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [12.x]
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@master
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: workflow Get new Tweet and Create DB
+        run: |
+          yarn install
+          yarn setup
+          yarn workflow
+        env:
+          TZ: Asia/Tokyo
+          TWITTER_BEARER_TOKEN: ${{ secrets.TWITTER_BEARER_TOKEN }}
+      - name: git setting
+        run: |
+          git config --local user.email "ivgtr.me@gmail.com"
+          git config --local user.name "ivgtr"
+      - name: commit & push
+        run: |
+          git add .
+          git commit -m "updating プペDB！" -a
+          git pull
+          git push origin master

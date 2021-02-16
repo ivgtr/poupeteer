@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "workflow": "cd ./packages/server && yarn dev",
     "dev": "run-p dev:client dev:server",
     "dev:client": "cd ./packages/client && yarn dev",
     "dev:server": "cd ./packages/server && yarn dev",
