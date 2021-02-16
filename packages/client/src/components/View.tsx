@@ -22,7 +22,7 @@ const View = () => {
       now_word = DB[now_word][Math.floor(Math.random() * DB[now_word].length)]
       morphemes += now_word
     }
-    morphemes = text + morphemes.replace(/_EOS_$/, '。\n\n')
+    morphemes = text + morphemes.replace(/_EOS_$/, '\n\n')
     if (morphemes.length > num) {
       setView(morphemes)
     } else {
@@ -34,18 +34,25 @@ const View = () => {
     <>
       <div className="w-full">
         <textarea
-          className="block w-4/6 h-72 mx-auto p-1 border "
+          className="block w-4/6 h-72 mx-auto p-1 border"
           placeholder="ボタンを押して生成してね"
           readOnly
           value={view}
         />
       </div>
       <p className="w-4/6 text-right mx-auto p-1">{view.length}</p>
-      <p>
-        <input type="number" defaultValue={num} onChange={(e) => setNum(Number(e.target.value))} />
-        文字以上で作成
-      </p>
-      <button onClick={() => makeSentence('')}>データを作るよ！</button>
+      <div className="flex justify-end">
+        <p className="mr-4">
+          <input
+            type="number"
+            defaultValue={num}
+            onChange={(e) => setNum(Number(e.target.value))}
+            className="w-24 mr-2 border"
+          />
+          文字以上で作成
+        </p>
+        <button onClick={() => makeSentence('')}>データを作るよ！</button>
+      </div>
     </>
   )
 }
