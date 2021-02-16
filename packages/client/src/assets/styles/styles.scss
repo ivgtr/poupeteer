@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+  display: inline-block;
+  padding: 1px 7px 2px;
+  margin: 0;
+  font: 400 11px system-ui;
+  color: initial;
+  text-align: start;
+  background-color: gainsboro;
+  border-color: rgb(216, 216, 216) rgb(209, 209, 209) rgb(186, 186, 186);
+  border-style: solid;
+  border-width: 1px;
+  -webkit-writing-mode: horizontal-tb !important;
+  -webkit-appearance: button;
+  text-rendering: auto;
+}

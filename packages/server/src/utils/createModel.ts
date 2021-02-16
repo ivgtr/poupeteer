@@ -11,12 +11,11 @@ export const createModel = async (result: Tweet[]) => {
   const tweetData = result.reduce<string[][]>((acc, value) => {
     const text = value.text
       .replace(/@([A-Za-z0-9_]+)\s+/g, '')
+      .replace(/[#＃][Ａ-Ｚａ-ｚA-Za-z一-鿆0-9０-９ぁ-ヶｦ-ﾟー._-]+/g, '')
+      .replace(/https?:\/\/[-_.!~*'()a-zA-Z0-9;/?:@&=+$,%#]+/g, '')
       .replace(/\r?\n/g, '')
       .split('。')
       .join('')
-    if (text.match(/https?:\/\/[-_.!~*'()a-zA-Z0-9;/?:@&=+$,%#]+/)) {
-      return acc
-    }
     const segments: string[] = tinySegmenter.segment(text)
     acc.push(segments)
     return acc
