@@ -16,6 +16,7 @@ export const createModel = async (result: Tweet[]) => {
       .replace(/\r?\n/g, '')
       .split('。')
       .join('')
+    if (text.length < 10) return acc
     const segments: string[] = tinySegmenter.segment(text)
     acc.push(segments)
     return acc
