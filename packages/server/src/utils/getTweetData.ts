@@ -20,7 +20,7 @@ type Params = {
 
 const params: Params = {
   q: '#えんとつ町のプぺル exclude:retweets',
-  count: '10',
+  count: '100',
   result_type: 'recent',
   trim_user: true,
   include_entities: false

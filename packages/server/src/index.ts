@@ -2,6 +2,7 @@ import fs from 'fs'
 import path from 'path'
 import { Status as Tweet } from 'twitter-d'
 import { getAllTweetData, getNewTweetData } from './utils/getTweetData'
+import { createModel } from './utils/createModel'
 
 const dir = process.cwd()
 
@@ -13,18 +14,22 @@ const checkProcess = (filePath: string) => {
   }
 }
 
+const createTweetData = (filePath: string) => {
+  const tweetData: Tweet[] = checkProcess(filePath)
+
+  return tweetData.length ? getNewTweetData(tweetData) : getAllTweetData([])
+}
+
 export default (async () => {
-  const filePath = path.join(dir, 'src/configs/poupeteer.json')
+  const filePath = path.join(dir, './poupeteer.json')
 
-  const tweetData = checkProcess(filePath)
+  const tweetDataResult = await createTweetData(filePath)
 
-  let result: Tweet[]
+  fs.writeFile(filePath, JSON.stringify(tweetDataResult, null, 2), (err) => {
+    if (err) console.log(err)
+  })
 
-  if (tweetData.length) {
-    result = await getNewTweetData(tweetData)
-  } else {
-    result = await getAllTweetData([])
-  }
+  const modelDataResult = await createModel(tweetDataResult)
 
-  fs.writeFileSync(filePath, JSON.stringify(result, null, 2))
+  fs.writeFileSync(path.join(dir, './db.json'), JSON.stringify(modelDataResult))
 })()

@@ -7,9 +7,9 @@
     "dev": "run-p dev:client dev:server",
     "dev:client": "cd ./packages/client && yarn dev",
     "dev:server": "cd ./packages/server && yarn dev",
-    "setup": "yarn && run-p setup:client setup:server",
-    "setup:client": "cd ./packages/client && yarn",
-    "setup:server": "cd ./packages/server && yarn"
+    "setup": "yarn install && run-p setup:client setup:server",
+    "setup:client": "cd ./packages/client && yarn install",
+    "setup:server": "cd ./packages/server && yarn install"
   },
   "devDependencies": {
     "@types/node": "^14.14.28",
