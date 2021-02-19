@@ -2356,10 +2356,6 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
-"twitter-d@git+ssh://git@github.com:Himself65/twitter-d.git":
-  version "0.4.0"
-  resolved "git+ssh://git@github.com:Himself65/twitter-d.git#82e105ef50a1a83023a4d41a40cefa70071f640b"
-
 twitter@^1.7.1:
   version "1.7.1"
   resolved "https://registry.yarnpkg.com/twitter/-/twitter-1.7.1.tgz#0762378f1dc1c050e48f666aca904e24b1a962f4"

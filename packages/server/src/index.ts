@@ -1,8 +1,9 @@
 import fs from 'fs'
 import path from 'path'
-import { Status as Tweet } from 'twitter-d'
 import { getAllTweetData, getNewTweetData } from './utils/getTweetData'
 import { createModel } from './utils/createModel'
+
+import type { Status as Tweet } from './@types/twitter'
 
 const dir = process.cwd()
 

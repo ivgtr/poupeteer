@@ -1,4 +1,4 @@
-import { Status as Tweet } from 'twitter-d'
+import type { Status as Tweet } from '../@types/twitter'
 
 const TinySegmenter = require('tiny-segmenter') // eslint-disable-line @typescript-eslint/no-var-requires
 

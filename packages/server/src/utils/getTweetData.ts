@@ -1,6 +1,7 @@
 import * as dotenv from 'dotenv'
 import Twitter from 'twitter'
-import { Status as Tweet } from 'twitter-d'
+
+import type { Status as Tweet } from '../@types/twitter'
 
 dotenv.config()
 
