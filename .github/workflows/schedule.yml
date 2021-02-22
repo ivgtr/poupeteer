@@ -1,7 +1,6 @@
 name: workflow Get new Tweet and Create DB
 
-on:
-  push: [master]
+on: push
 
 jobs:
   working-buckend:
