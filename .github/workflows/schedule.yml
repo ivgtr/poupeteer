@@ -1,6 +1,8 @@
 name: workflow Get new Tweet and Create DB
 
-on: push
+on:
+  schedule:
+    - cron: "0 3 * * *"
 
 jobs:
   working-buckend:
