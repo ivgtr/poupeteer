@@ -17,7 +17,8 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - name: workflow Get new Tweet and Create DB
         run: |
-          yarn setup
+          yarn
+          yarn setup:server
           yarn workflow
         env:
           TZ: Asia/Tokyo
