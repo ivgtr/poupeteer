@@ -2,7 +2,7 @@ name: workflow Get new Tweet and Create DB
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 5 * * *"
 
 jobs:
   working-buckend:
@@ -13,6 +13,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@master
+        with:
+          fetch-depth: 0
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
