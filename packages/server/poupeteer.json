@@ -1,5 +1,1817 @@
 [
   {
+    "created_at": "Sat Mar 06 03:30:41 +0000 2021",
+    "id": 1368041315892564000,
+    "id_str": "1368041315892563970",
+    "text": "#えんとつ町のプぺル https://t.co/WmMNU3jVGy",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "und",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1340272397123915800,
+      "id_str": "1340272397123915777"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  },
+  {
+    "created_at": "Sat Mar 06 03:22:08 +0000 2021",
+    "id": 1368039165850361900,
+    "id_str": "1368039165850361858",
+    "text": "こんな街に住みたい\n\n#citymap #新しい地図\n#イラスト　#絵　#絵本　#お絵描き　#えんぴつ　#色鉛筆　#illustration #drawing #sketch #sketchbook #essay… https://t.co/K892i4yl8h",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1339082828852519000,
+      "id_str": "1339082828852518912"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Mar 06 02:30:36 +0000 2021",
+    "id": 1368026196324147200,
+    "id_str": "1368026196324147202",
+    "text": "映画『#えんとつ町のプぺル』\n\n何度見ても感動できる物語。\n\nそろそろ上映が終わっていくと聞いて、今日、見納めしてきます。\n\n子どもと私は3プペ目(^-^)\n\n今回は初プペルのパパも一緒です！\n\n嬉しいな。\n\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 956271371348160500,
+      "id_str": "956271371348160515"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Mar 06 02:24:53 +0000 2021",
+    "id": 1368024755492642800,
+    "id_str": "1368024755492642818",
+    "text": "点と点が線でつながった。\n#えんとつ町のプぺル \n#副音声\n#第二弾\nまだまだお客さん多かったし、音上げてくれた気がした！\n#イオンシネマ",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1105317614,
+      "id_str": "1105317614"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Mar 06 01:35:08 +0000 2021",
+    "id": 1368012238494134300,
+    "id_str": "1368012238494134272",
+    "text": "心が温まる映画だった。\n映像と音楽が綺麗。\n心が綺麗な小学生の時に見たかったな。\n信じ続けるって素敵\n#えんとつ町のプぺル #プペル　#ぷぺる",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1358060546214359000,
+      "id_str": "1358060546214359042"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Sat Mar 06 00:47:20 +0000 2021",
+    "id": 1368000210035601400,
+    "id_str": "1368000210035601410",
+    "text": "皆さん、おはCIA〜（＾Ｏ＾☆♪\n今一番観てみたい映画 #えんとつ町のプぺル\n台詞が作り込まれてる印象、、、メッセージ性が強く現代の我々に訴えかけるものがあるかも、、、正に #普遍的価値 そのもの\nでもその映画を観て感動したとして… https://t.co/xsBspeYzF9",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1321229400243728400,
+      "id_str": "1321229400243728384"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 23:00:06 +0000 2021",
+    "id": 1367973220779839500,
+    "id_str": "1367973220779839490",
+    "text": "絵本『みにくいマルコ』\n予約しました📕\n\n#西野亮廣 さんの新作です✨\nメチャクチャ楽しみ〜♫\n\n子供達との布団の中での\nコミュニケーションツールです🎷\n\n＃みにくいマルコ \n#西野亮廣エンタメ研究所 \n#えんとつ町のプぺル \n\nhttps://t.co/qfixO1zDd5",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 126957727,
+      "id_str": "126957727"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 21:28:11 +0000 2021",
+    "id": 1367950091257061400,
+    "id_str": "1367950091257061377",
+    "text": "＾\n\n映画の興行収入を更新した今人気のえんとつ町のプペル！\n\n主人公のルビッチの置物フィギュア☆\n\n部屋に飾っておくだけでインテリアになるよね！\n\nさらにプペルグッズも集めてみようかな☆\n\n#えんとつ町のプぺル\n\nhttps://t.co/QXz4dMAhVa",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://botbird.net\" rel=\"nofollow\">Botbird tweets</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3257396516,
+      "id_str": "3257396516"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "cards": {
+      "summaries": [
+        {
+          "url": "https://t.co/QXz4dMAhVa",
+          "title": "【楽天市場】メディコム・トイ ウルトラディテールフィギュア No.597 UDF えんとつ町のプぺル ルビッチ 普段着 メディコム・トイ...",
+          "description": "ウルトラディテールフィギュア No.597 UDF えんとつ町のプぺル ルビッチ 普段着 メディコム・トイの価格比較、最安値比較。【最安値 1,650円（税込）】【評価：5.00】【口コミ：1件】（3/6時点 - 商品価格ナビ）",
+          "site_user": {
+            "id": 130671401,
+            "id_str": "130671401",
+            "name": "楽天市場",
+            "screen_name": "RakutenJP",
+            "location": "Tokyo, Japan",
+            "description": "楽天市場の公式アカウントです😆セール情報、ユニークな商品や、楽天のいろいろなサービスをご紹介しています❣️お問合せは https://t.co/2RNw8SvRwJ までお願いします。Shopping is Entertainment!",
+            "url": null,
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "url": "https://t.co/2RNw8SvRwJ",
+                    "expanded_url": "http://r10.to/hl5bd1",
+                    "display_url": "r10.to/hl5bd1",
+                    "indices": [
+                      59,
+                      82
+                    ]
+                  }
+                ]
+              }
+            },
+            "protected": false,
+            "followers_count": 1194252,
+            "friends_count": 50321,
+            "listed_count": 4457,
+            "created_at": "Wed Apr 07 23:56:08 +0000 2010",
+            "favourites_count": 9290,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 85454,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1046580603078864896/siehi3PY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046580603078864896/siehi3PY_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/130671401/1554971341",
+            "profile_link_color": "BF0000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+          },
+          "images": {
+            "mobile": {
+              "width": 100,
+              "height": 100,
+              "image_url": "https://pbs.twimg.com/card_img/1367891798522232836/B_drbsDd?format=jpg&name=100x100_2",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367891798522232836/B_drbsDd?format=jpg&name=120x120"
+            },
+            "web": {
+              "width": 120,
+              "height": 120,
+              "image_url": "https://pbs.twimg.com/card_img/1367891798522232836/B_drbsDd?format=jpg&name=120x120",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367891798522232836/B_drbsDd?format=jpg&name=280x280_2"
+            },
+            "tablet": {
+              "width": 120,
+              "height": 120,
+              "image_url": "https://pbs.twimg.com/card_img/1367891798522232836/B_drbsDd?format=jpg&name=120x120",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367891798522232836/B_drbsDd?format=jpg&name=280x280_2"
+            }
+          }
+        }
+      ]
+    },
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 19:50:56 +0000 2021",
+    "id": 1367925616226357200,
+    "id_str": "1367925616226357250",
+    "text": "最後まで寝ずに聞けるかな？\n#えんとつ町のプぺル \n#朗読 https://t.co/kg3t60ZAdY",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 252289262,
+      "id_str": "252289262"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1361666818671190000,
+    "quoted_status_id_str": "1361666818671190023",
+    "quoted_status": {
+      "created_at": "Tue Feb 16 13:20:42 +0000 2021",
+      "id": 1361666818671190000,
+      "id_str": "1361666818671190023",
+      "text": "YouTubeの新作\n「えんとつ町のプペル」公開しました！！！\n是非聴いてください\n#えんとつ町のプペル #朗読\n\nhttps://t.co/sFoeLlGgsO https://t.co/7Xkz4Q4ekD",
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1116690641746976800,
+        "id_str": "1116690641746976768"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 16:36:00 +0000 2021",
+    "id": 1367876558917017600,
+    "id_str": "1367876558917017600",
+    "text": "ポプマス、二ヶ月後に全面的なスキル調整のメンテナンスが入って、詫び石一万配られる、に、500プペルかける。\n\n#ポプマス\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1335568715241279500,
+      "id_str": "1335568715241279490"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 16:18:49 +0000 2021",
+    "id": 1367872237278171100,
+    "id_str": "1367872237278171140",
+    "text": "2月の記憶。おかわりプペル。初見の時と同じシーンで泣いてしまいました。連れの子も感動したらしく帰路での語りが止まりませんでした。初見の時より母の言葉が響きました。夢を追ってる人が一番言われたい言葉だと思った。素敵な言葉をありがとう… https://t.co/EdsWke4V3h",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2597768701,
+      "id_str": "2597768701"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 14:45:23 +0000 2021",
+    "id": 1367848721942126600,
+    "id_str": "1367848721942126594",
+    "text": "「えんとつ町のプペル」藤森さんのラップを中国語で歌いたいです♪\n\n歌無しの音源ってどうやったら手に入りますか？\n\n知ってる方教えて下さい。\n\nhttps://t.co/ywMYMMtEQS\n\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4733695410,
+      "id_str": "4733695410"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "cards": {
+      "players": [
+        {
+          "url": "https://t.co/ywMYMMtEQS",
+          "title": "オリラジ藤森にラップの制作を依頼したらマジなやつが返ってきた",
+          "description": "オリラジ藤森君が自身のYouTubeチャンネルで、漫画『スラムダンク』の内容をオリジナルラップで紹介していて、それがバカバカしくて最高だったので、仕事として「映画『えんとつ町のプペル』の見所もラップで紹介して！」とお願いしたところ、間違って、めちゃくちゃカッコイイ曲を作ってきちゃった。バカなの？ねえ、バカなのっ！...",
+          "site_user": {
+            "id": 10228272,
+            "id_str": "10228272",
+            "name": "YouTube",
+            "screen_name": "YouTube",
+            "location": "San Bruno, CA",
+            "description": "Like and subscribe.",
+            "url": "https://t.co/qkVaJFk2CG",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/qkVaJFk2CG",
+                    "expanded_url": "https://www.youtube.com/",
+                    "display_url": "youtube.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 73023872,
+            "friends_count": 1201,
+            "listed_count": 79007,
+            "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+            "favourites_count": 5427,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 31690,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "AF0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1614801676",
+            "profile_link_color": "C9191D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+          },
+          "images": {
+            "mobile": {
+              "width": 569,
+              "height": 320,
+              "image_url": "https://pbs.twimg.com/card_img/1367974952255647744/-d6nhDIe?format=jpg&name=800x320_1",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367974952255647744/-d6nhDIe?format=jpg&name=1000x1000"
+            },
+            "web": {
+              "width": 1000,
+              "height": 563,
+              "image_url": "https://pbs.twimg.com/card_img/1367974952255647744/-d6nhDIe?format=jpg&name=1000x1000",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367974952255647744/-d6nhDIe?format=jpg&name=1200x627"
+            },
+            "tablet": {
+              "width": 1200,
+              "height": 627,
+              "image_url": "https://pbs.twimg.com/card_img/1367974952255647744/-d6nhDIe?format=jpg&name=1200x627",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367974952255647744/-d6nhDIe?format=jpg&name=1200x627"
+            }
+          },
+          "players": [
+            {
+              "source_url": "https://www.youtube.com/embed/R7wXJC8twHg",
+              "source_type": "text/html",
+              "width": 435,
+              "height": 244
+            }
+          ]
+        }
+      ]
+    },
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 14:35:19 +0000 2021",
+    "id": 1367846190281236500,
+    "id_str": "1367846190281236484",
+    "text": "ようやくえんとつ町のプペル見ることができました\nYouTubeとかみて、ずっと気になってたから見れてほんとよかったです\n始まった瞬間から泣いてしまった\n映画で泣いたのは久しぶり\n\n素敵なお話だと思いました\nこれからも西野さんを応援していきたいです\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 838742888494194700,
+      "id_str": "838742888494194688"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 14:34:37 +0000 2021",
+    "id": 1367846012677615600,
+    "id_str": "1367846012677615621",
+    "text": "映画もでしたが、光を現す色彩が、まるで本当に光っているようにキレイです。西野さんが作品に込めた想い、この無料公開への心意気と勇気が、たくさんの方へ伝わりますように。\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1367844621187879000,
+    "in_reply_to_status_id_str": "1367844621187878912",
+    "in_reply_to_user_id": 1123232009516507100,
+    "in_reply_to_user_id_str": "1123232009516507137",
+    "in_reply_to_screen_name": "annie9066",
+    "user": {
+      "id": 1123232009516507100,
+      "id_str": "1123232009516507137"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 14:33:28 +0000 2021",
+    "id": 1367845721731338200,
+    "id_str": "1367845721731338246",
+    "text": "#みにくいマルコ \nAmazonで予約したけど、\nやっぱり、サイン入りも欲しいと\nポチっとしてきました😊\n\nサイン入りは、もちろん私の❤️\nもう一冊は、近くの保育園にでも寄付しようかな🤔\n\n#えんとつ町のプぺル \n#西野亮廣",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1340472055007887400,
+      "id_str": "1340472055007887363"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 14:03:34 +0000 2021",
+    "id": 1367838199825895400,
+    "id_str": "1367838199825895424",
+    "text": "次はどんな夢を見せてくれるのでしょうか♪楽しみにしてます♪\n#西野亮廣 \n#えんとつ町のプぺル \n#みにくいマルコ https://t.co/afXOrmylir",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1356942906150379500,
+      "id_str": "1356942906150379521"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 25,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:52:45 +0000 2021",
+    "id": 1367835477030572000,
+    "id_str": "1367835477030572034",
+    "text": "泣けるんですが…\n全力なの可愛すぎる\n\n#えんとつ町のプぺル \n#西野亮廣 https://t.co/SpSo4sqph0",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 121271309,
+      "id_str": "121271309"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1367706272737370000,
+    "quoted_status_id_str": "1367706272737370113",
+    "quoted_status": {
+      "created_at": "Fri Mar 05 05:19:20 +0000 2021",
+      "id": 1367706272737370000,
+      "id_str": "1367706272737370113",
+      "text": "#えんとつ町のプペル 九州在住の園児らによる英語劇 https://t.co/FAz1cBpB7E",
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 749371729701593100,
+        "id_str": "749371729701593088"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 202,
+      "favorite_count": 1134,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:45:16 +0000 2021",
+    "id": 1367833594647879700,
+    "id_str": "1367833594647879685",
+    "text": "#劇場版\n#えんとつ町のプぺル \n\nえんとつ町のプペルは絵本になる前に西野さんが書いてるってテレビで紹介されてた時から気になってたんだ。\n観なくても良いかなって思ったんだけどやっぱり気になったから観たら素敵だった。\nやっぱ、有ることも無いことも確認しないと解んないよね。",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1367832764616085500,
+    "in_reply_to_status_id_str": "1367832764616085506",
+    "in_reply_to_user_id": 2995140026,
+    "in_reply_to_user_id_str": "2995140026",
+    "in_reply_to_screen_name": "Sakura7iro",
+    "user": {
+      "id": 2995140026,
+      "id_str": "2995140026"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:37:55 +0000 2021",
+    "id": 1367831745807085600,
+    "id_str": "1367831745807085571",
+    "text": "愛犬が1万7000円する布団に寝てる😂\nそれだけ寝心地が良いのかな😝\n\nえんとつ町のプペルの布団です😉\n\n#えんとつ町のプぺル \n#2回目見たい https://t.co/glxNQMnk9f",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2409399732,
+      "id_str": "2409399732"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:20:11 +0000 2021",
+    "id": 1367827280085409800,
+    "id_str": "1367827280085409797",
+    "text": "「誰か見たのかよ！あの煙の向こう側を誰か見たのかよ。誰も見てないだろ？だったらまだ分かんないじゃないか！！」\n\n覚悟は出来てる。信じ抜くんだ。\n\n#えんとつ町のプぺル \n#奇跡は近づいてる https://t.co/CaMr0BBUMw",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2645528605,
+      "id_str": "2645528605"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:10:01 +0000 2021",
+    "id": 1367824724420567000,
+    "id_str": "1367824724420567048",
+    "text": "#えんとつ町のプぺル の映画見に行きました。とても感動、涙出そうな素晴らしい映画でした(¯―¯٥)\nルビッチ、プペルの友情がとても素晴らしかったです👏また機会があれば見に行きたいです。 https://t.co/FBQY450AMc",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1314944671227891700,
+      "id_str": "1314944671227891712"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:08:27 +0000 2021",
+    "id": 1367824329581285400,
+    "id_str": "1367824329581285378",
+    "text": "初めてネットカフェという所に行った。プペルコーナーがあって\nテンションが上がりました\n＃えんとつ町のプぺル https://t.co/xLKGy7y1uw",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1160041588946456600,
+      "id_str": "1160041588946456577"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": true,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 13:05:32 +0000 2021",
+    "id": 1367823593233543200,
+    "id_str": "1367823593233543172",
+    "text": "友達が(@ayami06291)えんとつ町のプペルをカバーしてます。\nMVガッツリ作っててびっくりした！\n\n天才万博出るって今動き始めた所ばっかりだし、色んな人に届けばいいな😊\n#えんとつ町のプぺル\n\nhttps://t.co/0iFuo6Ym8M",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1219167264202576000,
+      "id_str": "1219167264202575872"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "cards": {
+      "players": [
+        {
+          "url": "https://t.co/0iFuo6Ym8M",
+          "title": "「えんとつ町のプペル」（ Covered by AYAMI )",
+          "description": "words and music ： AKIHIRO NISHINOArtist：AYAMIDirector+Camera+Edit：Yuta UedaCamera + Recorded + MixingKatsushi Kiyuna lighting：Yoshiaki Tamura (Pman)Piano ： K...",
+          "site_user": {
+            "id": 10228272,
+            "id_str": "10228272",
+            "name": "YouTube",
+            "screen_name": "YouTube",
+            "location": "San Bruno, CA",
+            "description": "Like and subscribe.",
+            "url": "https://t.co/qkVaJFk2CG",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/qkVaJFk2CG",
+                    "expanded_url": "https://www.youtube.com/",
+                    "display_url": "youtube.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 73023872,
+            "friends_count": 1201,
+            "listed_count": 79007,
+            "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+            "favourites_count": 5427,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 31690,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "AF0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1614801676",
+            "profile_link_color": "C9191D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+          },
+          "images": {
+            "mobile": {
+              "width": 569,
+              "height": 320,
+              "image_url": "https://pbs.twimg.com/card_img/1367809533985181710/uuyvlRoe?format=jpg&name=800x320_1",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367809533985181710/uuyvlRoe?format=jpg&name=1000x1000"
+            },
+            "web": {
+              "width": 1000,
+              "height": 563,
+              "image_url": "https://pbs.twimg.com/card_img/1367809533985181710/uuyvlRoe?format=jpg&name=1000x1000",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367809533985181710/uuyvlRoe?format=jpg&name=1200x627"
+            },
+            "tablet": {
+              "width": 1200,
+              "height": 627,
+              "image_url": "https://pbs.twimg.com/card_img/1367809533985181710/uuyvlRoe?format=jpg&name=1200x627",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367809533985181710/uuyvlRoe?format=jpg&name=1200x627"
+            }
+          },
+          "players": [
+            {
+              "source_url": "https://www.youtube.com/embed/NOETnNNNP0I",
+              "source_type": "text/html",
+              "width": 435,
+              "height": 244
+            }
+          ]
+        }
+      ]
+    },
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 12:50:15 +0000 2021",
+    "id": 1367819747681706000,
+    "id_str": "1367819747681705985",
+    "text": "#えんとつ町のプぺル\n#西野亮廣\n#HYDE\n#HALLOWEENPARTY\n\n観てきた。\n\n内緒やけど何回観ても泣ける笑\n\n感動。\n\nHALLOWEENPARTYも最高。\n\n感動。\n\n西野監督\n次回作もHYDEでよろしくです✋😁 https://t.co/ghVuT5UBTy",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 848510773580058600,
+      "id_str": "848510773580058625"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 12:43:10 +0000 2021",
+    "id": 1367817965366775800,
+    "id_str": "1367817965366775808",
+    "text": "にしのあきひろ「みにくいマルコ ～えんとつ町に咲いた花～ 」をAmazonでチェック！\nhttps://t.co/ITsgnFgzUZ\n\n5/31発売・税込2,200円\n\n映画『えんとつ町のプペル』から3年後の「えんとつ町」の物語… https://t.co/GANExuWwLA",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1268837013324624000,
+      "id_str": "1268837013324623874"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 12:39:49 +0000 2021",
+    "id": 1367817124228472800,
+    "id_str": "1367817124228472837",
+    "text": "#えんとつ町のプぺル \n3月7日で終了だから今日観てきた\n\n信者ではありません\n\nハンカチ必須とかおすすめいっぱい聞いたから\nタオル持っていったけど、全然使わなかった\n\n泣くところ無かったよ\n\n何回も観る人本当にいるの?\n\n#プペル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1357258286148456400,
+      "id_str": "1357258286148456448"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:57:33 +0000 2021",
+    "id": 1367806487624446000,
+    "id_str": "1367806487624445954",
+    "text": "#えんとつ町のプぺル \n\n内容を思い出していた時に劇中のアントニオのあるセリフが西野さんが何かで話してたアンチの人達が持っている感情のことなのではと思った…\n\n見てない人には何のことか分からないと思うけど😅\n\n昨日もツイートしたけ… https://t.co/GeyKnBPjn9",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1332501770120040400,
+      "id_str": "1332501770120040448"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:57:04 +0000 2021",
+    "id": 1367806365150765000,
+    "id_str": "1367806365150765072",
+    "text": "えんとつ町のプペル\n\n先日やっと観に行けました！\nギリギリに到着し\n俺→1列目(俺だけ)\n嫁→2列目\n\n首疲れて最後まで無事見れる自信ないから、後日もう一度観にこようとしてたんだが\n\n後半ずっと泣きっぱなし\n\n結果、最前列最高… https://t.co/tq6flBeKBK",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2984975899,
+      "id_str": "2984975899"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:33:02 +0000 2021",
+    "id": 1367800314288513000,
+    "id_str": "1367800314288513030",
+    "text": "今日の2作目😊\n「えんとつ町のプペル」やっと観られた✨\n「友情」「家族」「希望」\n優しい思い遣りに満ち溢れた作品😭\n人は一人では生きられない。\n仲間達に助けられ、\n力を合わせて道を切り拓く。\n私も今年は自分の殻を破り、\n限界を超え… https://t.co/OCWqBGsGhR",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3222238172,
+      "id_str": "3222238172"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 9,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:23:47 +0000 2021",
+    "id": 1367797987594834000,
+    "id_str": "1367797987594833921",
+    "text": "みにくいマルコ〜えんとつ町に咲いた花〜がAmazonで予約開始しました。えんとつ町のプペルから3年後が舞台\n映画に出てきたキャラクターのその後が見られるみたいです😊めっちゃ楽しみです♪私も予約してます👍\n#みにくいマルコ… https://t.co/evl0Eb9k2o",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1307504600,
+      "id_str": "1307504600"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 31,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:22:48 +0000 2021",
+    "id": 1367797740609052700,
+    "id_str": "1367797740609052681",
+    "text": "ただただ「好き」\nというシンプルな想いが\n\nこんなにも\n\"人に豊かさを与える\"\n\nこれを体現すべく\n0からスタートします。\n\nいよいよゲーム界での\n僕の挑戦が幕を開ける。\n\n#挑戦 #夢 #希望 #チャレンジ #えんとつ町のプぺル… https://t.co/vY9UnnZioE",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1124393040448122900,
+      "id_str": "1124393040448122881"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:16:42 +0000 2021",
+    "id": 1367796205044994000,
+    "id_str": "1367796205044994049",
+    "text": "予約完了！！\n楽しみにお待ちしています！\n\n#西野亮廣\n#みにくいマルコ\n#えんとつ町に咲いた花 \n#えんとつ町のプぺル \n#ベストセラー1位 https://t.co/NuhPBzjfsY",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 436757161,
+      "id_str": "436757161"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 41,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:15:51 +0000 2021",
+    "id": 1367795991957495800,
+    "id_str": "1367795991957495808",
+    "text": "結構前ですが、副音声で6プペしてきました！\n当たり前やけど西野さんめっちゃ喋ってくれて楽しかったです😂😂\n一回ノーマルプペル挟んで、副音声見て、ノーマルプペルしたい、、！！\n\n副音声超オススメです！！！\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1343392889619935200,
+      "id_str": "1343392889619935232"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 11:11:23 +0000 2021",
+    "id": 1367794866470621200,
+    "id_str": "1367794866470621184",
+    "text": "アカペラも良いかも😌\nただ…間が気になる笑\n\n#えんとつ町のプぺル #アカペラ #歌ってみた \n\nアカペラで『えんとつ町のプペル』を歌ってみた https://t.co/kD5FZxPhpZ @YouTubeより",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 883984203037130800,
+      "id_str": "883984203037130752"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "cards": {
+      "players": [
+        {
+          "url": "https://t.co/kD5FZxPhpZ",
+          "title": "アカペラで『えんとつ町のプペル』を歌ってみた",
+          "description": "いつでもスマイル0円、天音です😊❤️ご視聴ありがとうございます♪下手なアカペラですが、大好きな音楽をたくさん共有出来たら嬉しいと思いUPさせて頂きました。えんとつ町のプペルは、絵本ですら泣けると話題のお話です。映画ももちろん涙なしでは見られない、たくさんの勇気と愛の溢れる作品でした。ハロウィンのシーズンになると...",
+          "site_user": {
+            "id": 10228272,
+            "id_str": "10228272",
+            "name": "YouTube",
+            "screen_name": "YouTube",
+            "location": "San Bruno, CA",
+            "description": "Like and subscribe.",
+            "url": "https://t.co/qkVaJFk2CG",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/qkVaJFk2CG",
+                    "expanded_url": "https://www.youtube.com/",
+                    "display_url": "youtube.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 73023872,
+            "friends_count": 1201,
+            "listed_count": 79007,
+            "created_at": "Tue Nov 13 21:43:46 +0000 2007",
+            "favourites_count": 5427,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 31690,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "AF0000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/10228272/1614801676",
+            "profile_link_color": "C9191D",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+          },
+          "images": {
+            "mobile": {
+              "width": 400,
+              "height": 300,
+              "image_url": "https://pbs.twimg.com/card_img/1367794608298594304/twOY3co9?format=jpg&name=400x400",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367794608298594304/twOY3co9?format=jpg&name=1200x627"
+            },
+            "web": {
+              "width": 1200,
+              "height": 627,
+              "image_url": "https://pbs.twimg.com/card_img/1367794608298594304/twOY3co9?format=jpg&name=1200x627",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367794608298594304/twOY3co9?format=jpg&name=1200x627"
+            },
+            "tablet": {
+              "width": 1200,
+              "height": 627,
+              "image_url": "https://pbs.twimg.com/card_img/1367794608298594304/twOY3co9?format=jpg&name=1200x627",
+              "image_url_2x": "https://pbs.twimg.com/card_img/1367794608298594304/twOY3co9?format=jpg&name=1200x627"
+            }
+          },
+          "players": [
+            {
+              "source_url": "https://www.youtube.com/embed/juLR59gbqNA",
+              "source_type": "text/html",
+              "width": 435,
+              "height": 244
+            }
+          ]
+        }
+      ]
+    },
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 10:48:38 +0000 2021",
+    "id": 1367789140721365000,
+    "id_str": "1367789140721364994",
+    "text": "プペルキッチンカーの存在を知りませんでした‼︎ビックリ！\n(● ˃̶͈̀ロ˂̶͈́)੭ꠥ⁾⁾\nいいなぁ〜。♡。食べたい。飲みたい。\n#えんとつ町のプぺル \n#プペルキッチンカー https://t.co/8DQTxcHbDR",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 928959205209391100,
+      "id_str": "928959205209391105"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1367749634009886700,
+    "quoted_status_id_str": "1367749634009886729",
+    "quoted_status": {
+      "created_at": "Fri Mar 05 08:11:38 +0000 2021",
+      "id": 1367749634009886700,
+      "id_str": "1367749634009886729",
+      "text": "えんとつ町のプペル光る絵本展in山梨\n3/6(土) UTYテレビ山梨\n10:00〜19:00\nプペルマルシェ同時開催\n\n#えんとつ町のプペル\n#プペルトラック\n#プペルキッチンカー\n#星空のバス https://t.co/cZuu3nzESb",
+      "truncated": false,
+      "metadata": {
+        "iso_language_code": "ja",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 341698289,
+        "id_str": "341698289"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ja"
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 10:20:39 +0000 2021",
+    "id": 1367782099831300000,
+    "id_str": "1367782099831300097",
+    "text": "#えんとつ町のプぺル \n子どもにも見せたい！と、映画館に足を運んでくれた友達からのLINE。\n\n満席だよー！\n明日、出直す！\n\nだって✩.*˚\n夢を持って生きること。\nこの歳でも感化されたので、子どもたちが見たら、ずっと心に残る映… https://t.co/v2VVak1zdY",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1095880690686517200,
+      "id_str": "1095880690686517250"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 10,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 10:19:41 +0000 2021",
+    "id": 1367781854888161300,
+    "id_str": "1367781854888161282",
+    "text": "えんとつ町のプペル見た\nまず絵が好き\n個人的に声優の藤森さんが担当してたキャラが藤森さんそのものすぎて心の中で笑ってた\n色々あってあのいい物語を考えた西野さんが1番ステキ🙂\n次も期待\n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1349276209,
+      "id_str": "1349276209"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 10:18:47 +0000 2021",
+    "id": 1367781630513803300,
+    "id_str": "1367781630513803266",
+    "text": "ちょっとプペってくる！\n#えんとつ町のプぺル https://t.co/x1N0h3V6nR",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 328566324,
+      "id_str": "328566324"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 7,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 09:12:16 +0000 2021",
+    "id": 1367764891981942800,
+    "id_str": "1367764891981942784",
+    "text": "今日はいつもとは一味違う内容となってます！僕がブログを始めたり公務員を辞めるとかそういう考えになる全然前、考え方が大きく変わったきっかけについて書きました\n#西野亮廣 #えんとつ町のプぺル #革命のファンファーレ… https://t.co/3BItHPyUdR",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1365731928570167300,
+      "id_str": "1365731928570167298"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 08:25:09 +0000 2021",
+    "id": 1367753031605911600,
+    "id_str": "1367753031605911553",
+    "text": "【星を一緒にみよう】～私がえんとつ町のプぺルを何度も観に行くワケ～\n⇒ https://t.co/RRs9wkWtZt #アメブロ @ameba_officialより \n#えんとつ町のプぺル",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1247067733050581000,
+      "id_str": "1247067733050580992"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 06:47:10 +0000 2021",
+    "id": 1367728374458687500,
+    "id_str": "1367728374458687488",
+    "text": "えんとつ町の食器用洗剤は下記でご購入できます！\n取り扱い店拡販中！よろしくお願いします🙏\n#東急東急ハンズ　#西友　#セイムス\n直営店\nhttps://t.co/ld1MAEBbML\nAmazon… https://t.co/tIP5bUCFwe",
+    "truncated": true,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1183283270710001700,
+      "id_str": "1183283270710001665"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
+    "created_at": "Fri Mar 05 06:22:33 +0000 2021",
+    "id": 1367722180318875600,
+    "id_str": "1367722180318875652",
+    "text": "#えんとつ町のプぺル 感動したぜ🥺by 園長。 https://t.co/7SQZThSA5D",
+    "truncated": false,
+    "metadata": {
+      "iso_language_code": "ja",
+      "result_type": "recent"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1367717641339555800,
+    "in_reply_to_status_id_str": "1367717641339555841",
+    "in_reply_to_user_id": 749371729701593100,
+    "in_reply_to_user_id_str": "749371729701593088",
+    "in_reply_to_screen_name": "10coffeebrewers",
+    "user": {
+      "id": 749371729701593100,
+      "id_str": "749371729701593088"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 62,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ja"
+  },
+  {
     "created_at": "Fri Mar 05 05:06:49 +0000 2021",
     "id": 1367703121552572400,
     "id_str": "1367703121552572418",
